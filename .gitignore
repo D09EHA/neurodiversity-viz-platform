@@ -1,0 +1,21 @@
+# Frontend
+frontend/node_modules
+frontend/build
+frontend/.env
+frontend/.DS_Store
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# ML Research
+ml_research/.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Misc
+.DS_Store
